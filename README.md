@@ -4,7 +4,9 @@
 
 [目录](https://github.com/mominger/blog/issues)
   - 前端工业化
-  - 前端集成方案——理论(一)
+  
+    - 前端集成方案——理论(一)
+    
   - 前端应用框架
 
 
