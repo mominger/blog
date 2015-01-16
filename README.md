@@ -10,6 +10,10 @@
   - 前端应用框架
      - [前端应用框架(一)](https://github.com/mominger/blog/issues/4)
      - [前端应用框架(二）](https://github.com/mominger/blog/issues/5)
+  - 红包项目
+     - [红包项目总结---传统版](https://github.com/mominger/blog/issues/6)
+     - [红包项目总结---MVC版](https://github.com/mominger/blog/issues/7)
+     - [自研框架wap.js实践](https://github.com/mominger/blog/issues/8)
 
 
   
