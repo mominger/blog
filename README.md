@@ -16,6 +16,8 @@
      - [自研框架wap.js实践](https://github.com/mominger/blog/issues/8)
   - Zepto源码分析
      - [Zepto源码分析-架构](https://github.com/mominger/blog/issues/9)
+     - [Zepto源码分析-zepto模块](https://github.com/mominger/blog/issues/10)
+     - [Zepto源码分析-callbacks模块](https://github.com/mominger/blog/issues/11)
 
 
   
