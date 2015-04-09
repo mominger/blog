@@ -19,6 +19,7 @@
      - [Zepto源码分析-zepto模块](https://github.com/mominger/blog/issues/10)
      - [Zepto源码分析-callbacks模块](https://github.com/mominger/blog/issues/11)
      - [Zepto源码分析-event模块](https://github.com/mominger/blog/issues/12)
+     - [Zepto源码分析-ajax模块](https://github.com/mominger/blog/issues/13)
 
 
   
