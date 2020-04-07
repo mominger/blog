@@ -4,7 +4,7 @@
   
   [目录](https://github.com/mominger/blog/issues)
   - 多端融合
-    - [小程序多端合一框架对比(20200407)](https://github.com/mominger/blog/issues/1)
+    - [小程序多端合一框架对比(20200407)](https://github.com/mominger/blog/issues/19)
   - ### 下面文章是2015年8月前写的
   - 前端工业化
      - [前端集成方案——理论(一)](https://github.com/mominger/blog/issues/1)
