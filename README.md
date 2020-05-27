@@ -8,6 +8,8 @@
     - [接口文档平台选型(20200508)](https://github.com/mominger/blog/issues/20)
     - [YApi使用说明(20200511)](https://github.com/mominger/blog/issues/21)
     - [uniapp多端项目架构(20200519)](https://github.com/mominger/blog/issues/22)
+ - 管理
+    - [可复制的领导力读后感](https://github.com/mominger/blog/issues/23)
 
   - ### 下面文章是2015年8月前写的
   - 前端工业化
