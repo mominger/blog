@@ -1,14 +1,16 @@
 ## 个人博客
 > 关注前端大规模开发；包括前端工业化、前端架构设计。
   
-  
+
   [目录](https://github.com/mominger/blog/issues)
   - 多端融合
     - [小程序多端合一框架对比(20200407)](https://github.com/mominger/blog/issues/19)
     - [接口文档平台选型(20200508)](https://github.com/mominger/blog/issues/20)
     - [YApi使用说明(20200511)](https://github.com/mominger/blog/issues/21)
     - [uniapp多端项目架构(20200519)](https://github.com/mominger/blog/issues/22)
- - 管理
+  - 项目简笔
+    - [Yapi结合前端项目的使用](https://github.com/mominger/blog/issues/24)
+  - 管理
     - [可复制的领导力读后感](https://github.com/mominger/blog/issues/23)
 
   - ### 下面文章是2015年8月前写的
