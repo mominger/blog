@@ -10,7 +10,7 @@
     - [uniapp多端项目架构(20200519)](https://github.com/mominger/blog/issues/22)
   - 项目简笔
     - [Yapi结合前端项目的使用](https://github.com/mominger/blog/issues/24)
-    - [表单统一校验](https://github.com/mominger/blog/issues/25)
+    - [表单统一校验](https://github.com/mominger/blog/issues/25)
 
   - 管理
     - [可复制的领导力读后感](https://github.com/mominger/blog/issues/23)
