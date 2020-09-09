@@ -3,6 +3,8 @@
   
 
   [目录](https://github.com/mominger/blog/issues)
+  - Vue
+    - [Vue项目探讨(搭建+工程优化)](https://github.com/mominger/blog/issues/26)
   - 多端融合
     - [小程序多端合一框架对比(20200407)](https://github.com/mominger/blog/issues/19)
     - [接口文档平台选型(20200508)](https://github.com/mominger/blog/issues/20)
