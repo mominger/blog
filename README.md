@@ -10,7 +10,7 @@
     - [接口文档平台选型(20200508)](https://github.com/mominger/blog/issues/20)
     - [YApi使用说明(20200511)](https://github.com/mominger/blog/issues/21)
     - [uniapp多端项目架构(20200519)](https://github.com/mominger/blog/issues/22)
-    - [uniapp小程序总结](20200915)](https://github.com/mominger/blog/issues/28)
+    - [uniapp小程序总结(20200915)](https://github.com/mominger/blog/issues/28)
     
   - 项目简笔
     - [Yapi结合前端项目的使用(20200529)](https://github.com/mominger/blog/issues/24)
