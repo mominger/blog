@@ -4,15 +4,17 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - Vue
-    - [Vue项目探讨(搭建+工程优化)](https://github.com/mominger/blog/issues/26)
+    - [Vue项目探讨(搭建+工程优化)(20200903)](https://github.com/mominger/blog/issues/26)
   - 小程序(多端融合)
     - [小程序多端合一框架对比(20200407)](https://github.com/mominger/blog/issues/19)
     - [接口文档平台选型(20200508)](https://github.com/mominger/blog/issues/20)
     - [YApi使用说明(20200511)](https://github.com/mominger/blog/issues/21)
     - [uniapp多端项目架构(20200519)](https://github.com/mominger/blog/issues/22)
+    - [uniapp小程序总结](20200915)](https://github.com/mominger/blog/issues/28)
+    
   - 项目简笔
-    - [Yapi结合前端项目的使用](https://github.com/mominger/blog/issues/24)
-    - [表单统一校验](https://github.com/mominger/blog/issues/25)
+    - [Yapi结合前端项目的使用(20200529)](https://github.com/mominger/blog/issues/24)
+    - [表单统一校验(20200613)](https://github.com/mominger/blog/issues/25)
 
   - 管理
     - [可复制的领导力读后感](https://github.com/mominger/blog/issues/23)
