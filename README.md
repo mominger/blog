@@ -1,5 +1,5 @@
 ## 个人博客
-> 关注前后端架构设计、工程优化。
+> 关注前端架构设计、工程优化。
   
 
   [目录](https://github.com/mominger/blog/issues)
