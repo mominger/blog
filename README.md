@@ -46,5 +46,5 @@
      - [Zepto源码分析-动画(fx fx_method)模块](https://github.com/mominger/blog/issues/16)
 
 
-  
-博客园[@莫名](http://www.cnblogs.com/mominger/)
+[本人github其他博文,需授权访问](https://github.com/mominger/privateBLOG)
+[本人博客园](http://www.cnblogs.com/mominger/)
