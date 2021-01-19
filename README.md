@@ -43,7 +43,7 @@
      - [Zepto源码分析-ajax模块](https://github.com/mominger/blog/issues/13)
      - [Zepto源码分析-deferred模块](https://github.com/mominger/blog/issues/14)
      - [Zepto源码分析-form模块](https://github.com/mominger/blog/issues/15)
-     - [Zepto源码分析-动画(fx fx_method)模块](https://github.com/mominger/blog/issues/16)
+     - [Zepto源码分析-动画(fx fx_method)模块](https://github.com/mominger/blog/issues/16)    
 
 
 [本人github其他博文,需授权访问](https://github.com/mominger/privateBLOG)
