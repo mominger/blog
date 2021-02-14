@@ -4,7 +4,6 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - 不公开博文
-     - [目录](https://github.com/mominger/privateBLOG)
      - [AirAsia小程序性能初步分析(20201211)](https://github.com/mominger/privateBLOG/issues/1)
      - [Comparison of multi-end integration framework of mini program(小程序多端合一框架对比 20210120)](https://github.com/mominger/privateBLOG/issues/2)
      - [Analysis of the underlying structure of the mini program(小程序架构浅析 20210119)](https://github.com/mominger/privateBLOG/issues/3)
