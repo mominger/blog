@@ -3,6 +3,11 @@
   
 
   [目录](https://github.com/mominger/blog/issues)
+  - 不公开博文
+     - [目录](https://github.com/mominger/privateBLOG)
+     - [AirAsia小程序性能初步分析(20201211)](https://github.com/mominger/privateBLOG/issues/1)
+     - [Comparison of multi-end integration framework of mini program(小程序多端合一框架对比 20210120)](https://github.com/mominger/privateBLOG/issues/2)
+     - [Analysis of the underlying structure of the mini program(小程序架构浅析 20210119)](https://github.com/mominger/privateBLOG/issues/3)
   - Vue
     - [Vue项目探讨(搭建+工程优化)(20200903)](https://github.com/mominger/blog/issues/26)
   - 小程序(多端融合)
@@ -46,6 +51,5 @@
      - [Zepto源码分析-动画(fx fx_method)模块](https://github.com/mominger/blog/issues/16)    
 
 
-[本人github其他博文,需授权访问](https://github.com/mominger/privateBLOG)
    
 [本人博客园](http://www.cnblogs.com/mominger/)
