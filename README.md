@@ -4,6 +4,7 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - [不公开博文](https://github.com/mominger/privateBLOG/issues)
+     - [基于Taro的小程序架构说明(20210617)](https://github.com/mominger/privateBLOG/issues/6)
      - [Caching strategy for AirAsia Mini Program(20210326)](https://github.com/mominger/privateBLOG/issues/5)
      - [Front-end caching analysis(20210325)](https://github.com/mominger/privateBLOG/issues/4)
      - [小程序项目性能初步分析(20201211)](https://github.com/mominger/privateBLOG/issues/1)
