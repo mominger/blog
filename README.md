@@ -4,6 +4,7 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - [不公开博文](https://github.com/mominger/privateBLOG/issues)
+     - [Taro+React project configuration ESLint+Prettier(Taro+React项目配置ESLint+Prettier 20210706)](https://github.com/mominger/privateBLOG/issues/8)
      - [Building local Mock Service(20210705)](https://github.com/mominger/privateBLOG/issues/7)
      - [基于Taro的小程序架构说明(20210617)](https://github.com/mominger/privateBLOG/issues/6)
      - [Caching strategy for AirAsia Mini Program(20210326)](https://github.com/mominger/privateBLOG/issues/5)
