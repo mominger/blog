@@ -4,6 +4,7 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - [不公开博文](https://github.com/mominger/privateBLOG/issues)
+     - [Building local Mock Service(20210705)](https://github.com/mominger/privateBLOG/issues/7)
      - [基于Taro的小程序架构说明(20210617)](https://github.com/mominger/privateBLOG/issues/6)
      - [Caching strategy for AirAsia Mini Program(20210326)](https://github.com/mominger/privateBLOG/issues/5)
      - [Front-end caching analysis(20210325)](https://github.com/mominger/privateBLOG/issues/4)
