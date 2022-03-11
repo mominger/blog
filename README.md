@@ -5,7 +5,7 @@
   [目录](https://github.com/mominger/blog/issues)
   - 基于React(Taro)构建微信小程序
      - [Taro+React project configuration ESLint+Prettier(Taro+React项目配置ESLint+Prettier 20210706)](https://github.com/mominger/blog/issues/35)
-     - [基于Taro的小程序架构说明(20210617)](https://github.com/mominger/blog/issues/34)
+     - [WeChat Mini Program architecture design based on Taro+React(基于Taro+React的小程序架构说明 20210617)](https://github.com/mominger/blog/issues/34)
      - [Comparison of multi-end integration framework of mini program(小程序多端合一框架对比 20210120)](https://github.com/mominger/blog/issues/30)
   - 前端基础
      - [Front-end caching analysis(20210325)](https://github.com/mominger/blog/issues/32)
