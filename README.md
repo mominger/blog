@@ -1,8 +1,11 @@
 ## 个人博客
-> 关注前端架构设计、工程优化。
+> Wechat Mini Program、React、Vue
   
 
   [目录](https://github.com/mominger/blog/issues)
+  - React
+     - [Analysis of Redux source code](https://github.com/mominger/blog/issues/36)
+     - [Analysis of Redux-thunk source code](https://github.com/mominger/blog/issues/37)
   - 基于React(Taro)构建微信小程序
      - [Taro+React project configuration ESLint+Prettier(Taro+React项目配置ESLint+Prettier 20210706)](https://github.com/mominger/blog/issues/35)
      - [WeChat Mini Program architecture design based on Taro+React(基于Taro+React的小程序架构说明 20210617)](https://github.com/mominger/blog/issues/34)
