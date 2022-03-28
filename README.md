@@ -4,6 +4,7 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - React
+     - [Analysis of Redux source code](https://github.com/mominger/blog/issues/38)
      - [Analysis of Redux source code](https://github.com/mominger/blog/issues/36)
      - [Analysis of Redux-thunk source code](https://github.com/mominger/blog/issues/37)
   - 基于React(Taro)构建微信小程序
