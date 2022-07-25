@@ -4,7 +4,7 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - React
-     - [Explain the web architecture based on React18+Mbox](https://github.com/mominger/blog/issues/40)
+     - [Explain the web architecture based on React18+Mobx](https://github.com/mominger/blog/issues/40)
      - [Analysis of Redux-saga source code](https://github.com/mominger/blog/issues/38)
      - [Analysis of Redux source code](https://github.com/mominger/blog/issues/36)
      - [Analysis of Redux-thunk source code](https://github.com/mominger/blog/issues/37)
