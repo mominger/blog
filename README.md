@@ -1,5 +1,5 @@
 ## 个人博客
-> Wechat Mini Program、React、Vue
+> React、Wechat Mini Program、Vue
   
 
   [目录](https://github.com/mominger/blog/issues)
