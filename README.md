@@ -8,6 +8,8 @@
      - [Analysis of Redux-saga source code](https://github.com/mominger/blog/issues/38)
      - [Analysis of Redux source code](https://github.com/mominger/blog/issues/36)
      - [Analysis of Redux-thunk source code](https://github.com/mominger/blog/issues/37)
+  - Analysis of React source code
+    - [Basic architecture](https://github.com/mominger/blog/issues/41)
   - Node.js
      - [Analysis of Node.js - Koa source code](https://github.com/mominger/blog/issues/39)
   - 基于React(Taro)构建微信小程序
