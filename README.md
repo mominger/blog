@@ -22,7 +22,8 @@
      - [Comparison of multi-end integration framework of mini program(小程序多端合一框架对比)](https://github.com/mominger/blog/issues/30)
   - Frontend Basics
      - [Front-end caching analysis](https://github.com/mominger/blog/issues/32)
-  - Wechat MiniProgram
+  - WeChat MiniProgram
+     - [WeChat Mini Program State Management Solution Design](https://github.com/mominger/blog/issues/45)
      - [Analysis of the underlying structure of the mini program(小程序架构浅析)](https://github.com/mominger/blog/issues/31)
   - Vue
     - [Vue项目探讨(搭建+工程优化)](https://github.com/mominger/blog/issues/26)
