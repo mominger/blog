@@ -16,13 +16,13 @@
   - Node.js
      - [Analysis of Node.js - Koa source code](https://github.com/mominger/blog/issues/39)
      - [Based on Koa2+Typescript BFF architecture design](https://github.com/mominger/blog/issues/44)
-  - 基于React(Taro)构建微信小程序
+  - Building a WeChat Mini Program Based on React (Taro)
      - [Taro+React project configuration ESLint+Prettier(Taro+React项目配置ESLint+Prettier)](https://github.com/mominger/blog/issues/35)
      - [WeChat Mini Program architecture design based on Taro+React(基于Taro+React的小程序架构说明)](https://github.com/mominger/blog/issues/34)
      - [Comparison of multi-end integration framework of mini program(小程序多端合一框架对比)](https://github.com/mominger/blog/issues/30)
-  - 前端基础
+  - Frontend Basics
      - [Front-end caching analysis](https://github.com/mominger/blog/issues/32)
-  - 微信小程序基础
+  - Wechat MiniProgram
      - [Analysis of the underlying structure of the mini program(小程序架构浅析)](https://github.com/mominger/blog/issues/31)
   - Vue
     - [Vue项目探讨(搭建+工程优化)](https://github.com/mominger/blog/issues/26)
