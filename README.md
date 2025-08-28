@@ -1,8 +1,10 @@
 ## 个人博客
-> React、Wechat Mini Program、Vue
+> React/Vue、MiniProgram(Wechat/Alipay/Taro)、Nodejs/Koa2/Typescript
   
 
   [目录](https://github.com/mominger/blog/issues)
+  - 微前端
+    - [前端中大型项目数据治理](https://github.com/mominger/blog/issues/46)
   - React
      - [Design a web architecture based on React18+Mobx](https://github.com/mominger/blog/issues/40)
      - [Analysis of Redux-saga source code](https://github.com/mominger/blog/issues/38)
