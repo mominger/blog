@@ -4,7 +4,10 @@
 
   [目录](https://github.com/mominger/blog/issues)
   - 微前端
-    - [前端中大型项目数据治理](https://github.com/mominger/blog/issues/46)
+    - [前端中大型项目数据治理](https://github.com/mominger/blog/issues/46)   
+  - Component library
+    - [Analysis of AntDesign - Basic architecture](https://github.com/mominger/blog/issues/42)
+    - [How to build a component library](https://github.com/mominger/blog/issues/43)
   - React
      - [Design a web architecture based on React18+Mobx](https://github.com/mominger/blog/issues/40)
      - [Analysis of Redux-saga source code](https://github.com/mominger/blog/issues/38)
@@ -12,9 +15,6 @@
      - [Analysis of Redux-thunk source code](https://github.com/mominger/blog/issues/37)
   - Analysis of React source code
     - [Basic architecture](https://github.com/mominger/blog/issues/41)
-  - Component library
-    - [Analysis of AntDesign - Basic architecture](https://github.com/mominger/blog/issues/42)
-    - [How to build a component library](https://github.com/mominger/blog/issues/43)
   - Node.js
      - [Analysis of Node.js - Koa source code](https://github.com/mominger/blog/issues/39)
      - [Based on Koa2+Typescript BFF architecture design](https://github.com/mominger/blog/issues/44)
