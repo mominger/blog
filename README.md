@@ -6,6 +6,8 @@
   - 微前端
     - [前端中大型项目数据治理](https://github.com/mominger/blog/issues/46)   
   - Component library
+  - https://github.com/mominger/blog/issues/47
+    - [Unified UI Component Library Exploration for MNC(跨国公司统一的 UI组件库探索)](https://github.com/mominger/blog/issues/47)
     - [Analysis of AntDesign - Basic architecture](https://github.com/mominger/blog/issues/42)
     - [How to build a component library](https://github.com/mominger/blog/issues/43)
   - React
